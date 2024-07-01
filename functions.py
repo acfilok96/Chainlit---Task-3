@@ -89,7 +89,7 @@ def generateQuery(database_name, enter_query):
     ##############################
     
     # Groq model set up with llama2-70b model
-    Gorq_Key = str("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")
+    Gorq_Key = str("Enter your Groq API Key")
     groq_model = Groq(api_key = str(Gorq_Key))
 
     ##############################
