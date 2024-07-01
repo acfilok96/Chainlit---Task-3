@@ -15,4 +15,4 @@ To modify the welcome screen, edit the `chainlit.md` file at the root of your pr
 
 ## Run on terminal
 
-> chainlit run app.py -w
+\> chainlit run app.py -w
