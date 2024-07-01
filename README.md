@@ -13,6 +13,10 @@ We can't wait to see what you create with Chainlit! Happy coding! 💻😊
 
 To modify the welcome screen, edit the `chainlit.md` file at the root of your project. If you do not want a welcome screen, just leave this file empty.
 
+## Set the Groq API Key 🔗
+
+- **Generate Groq API Key:** [Groq Playground](https://console.groq.com/keys)
+
 ## Run on terminal
 
 \> chainlit run app.py -w
